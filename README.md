@@ -100,12 +100,6 @@
    - **Tujuan:**  
      - Mendeteksi ulasan spam atau outlier yang mungkin mengganggu analisis
 
-5. **Trend Analysis**  
-   - **Metode:**  
-     - Time-series analysis (misal: ARIMA, Prophet)  
-   - **Tujuan:**  
-     - Mengamati perubahan sentimen, emosi, atau topik dari waktu ke waktu (misalnya, sebelum dan sesudah update aplikasi)
-
 ---
 
 ## II. Daftar Fitur Aplikasi yang Mungkin Dibangun
@@ -128,7 +122,6 @@
 6. **Fitur Data Mining Lanjutan**  
    - **Topic Modeling:** Menemukan tema atau kategori ulasan (misal: performa, UI, fitur baru) untuk memberikan insight topik dominan.  
    - **Association Rule Mining:** Mengungkap pola hubungan antar kata (misal: "crash" sering muncul bersama "update OS").  
-   - **Trend Analysis:** Menampilkan grafik tren keluhan atau sentimen/emosi utama dari waktu ke waktu, misalnya sebelum dan sesudah update aplikasi.  
    - **Spam/Anomaly Detection:** Memfilter dan mengidentifikasi ulasan yang terindikasi spam atau outlier.
 
 7. **Dashboard Interaktif**  
