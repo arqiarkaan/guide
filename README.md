@@ -1,7 +1,3 @@
-Berikut adalah dua daftar yang telah disesuaikan berdasarkan dataset 21 ribu baris (kolom Review, Sentimen, dan Emosi) serta penyesuaian model/metode/algoritma dan fitur aplikasi yang mungkin dibangun. Kami juga menambahkan beberapa penyesuaian untuk memanfaatkan label Emosi dan potensi multi-task learning.
-
----
-
 ## I. Daftar Model/Metode/Algoritma
 
 ### A. Analisis Sentimen (dan Emosi)
