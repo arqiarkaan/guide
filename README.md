@@ -36,7 +36,7 @@
    - **Kekurangan:**  
      - Memerlukan resource GPU dan penyesuaian hyperparameter  
    - **Catatan Tambahan:**  
-     - **Multi-Task Learning:** Mengingat dataset memiliki label Sentimen dan Emosi, Anda dapat mempertimbangkan pendekatan multi-task learning dengan satu model (misal, IndoBERT) yang memiliki dua output head untuk mengklasifikasikan kedua label tersebut secara bersamaan.
+     - **Multi-Task Learning:** Mengingat dataset memiliki label Sentimen dan Emosi, kita dapat mempertimbangkan pendekatan multi-task learning dengan satu model (misal, IndoBERT) yang memiliki dua output head untuk mengklasifikasikan kedua label tersebut secara bersamaan.
 
 ---
 
